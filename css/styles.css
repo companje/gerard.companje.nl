@@ -1,0 +1,53 @@
+.center {
+  margin: auto;
+  max-width: 1000px;
+  /*border: 3px solid #73AD21;*/
+  padding: 10px;
+  text-align: center;
+}
+
+.thumbs {
+  /*border: 1px solid red;*/
+  /*text-align: center;*/
+  /*display: inline-block;
+  text-align: left;*/
+  /*display: flex;*/
+
+  /*max-width: 1300px;*/
+  /*align-content: center;*/
+  /*stretch|center|flex-start|flex-end|space-between|space-around|initial|inherit;*/
+
+}
+
+a {
+  cursor: hand;
+}
+
+img {
+  height: 310px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border: 0px;
+}
+
+@font-face {
+  font-family: 'Bauhaus 93';
+  src: url('../fonts/BAUHS93.TTF');
+}
+
+h1 {
+  font-family: "Bauhaus 93";
+  letter-spacing: 12px;
+  text-align: center;
+}
+
+@font-face {
+  font-family: 'OCR';
+  src: url('../fonts/OCRAEXT.TTF');
+}
+
+h2 {
+  font-family: "OCR";
+  letter-spacing: 4px;
+  text-align: center;
+}
